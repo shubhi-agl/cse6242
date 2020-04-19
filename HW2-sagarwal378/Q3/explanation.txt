@@ -1,0 +1,3 @@
+Non-linear scales should be used when some of the items in the data are exponentially larger than others.
+For example, if there are some values in the range of 10s, 100s and 1000s, and one in the range of 1M.
+Then, using a linear scale will make it impossible to observe any significant differences between the lower range values.

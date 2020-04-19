@@ -1,0 +1,35 @@
+path.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+path.link_0{
+  fill: none;
+  stroke: blue;
+  stroke-width: 3.0px;
+}
+
+path.link_1{
+  fill: none;
+  stroke: black;
+  stroke-width: 1.5px;
+  stroke-dasharray: 3,3;
+}
+
+circle {
+  stroke: #fff;
+  stroke: black;
+  stroke-width: 1.5px;
+}
+
+text {
+  fill: #000;
+  font: 10px sans-serif;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+.pinned{
+    stroke-width: 3px;
+}

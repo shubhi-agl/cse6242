@@ -1,0 +1,12 @@
+.line {
+    fill: none;
+    stroke-width: 3;
+}
+
+.dot {
+    stroke: #fff;
+}
+
+@media print {
+    .pagebreak { page-break-before: always; }
+}
